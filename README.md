@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nburnet1(Noah Burnette)!
 - 👀 I’m interested in everything programming!
-- 🌱 I’m currently learning Java and C++.
+- 🌱 I’m currently learning Java and C.
 - 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me nburnet1github@gmail.com
 
