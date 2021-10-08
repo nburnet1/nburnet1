@@ -1,4 +1,4 @@
-Student by day, Programmer by night
+Programmer by day... also programmer by night
 
 <!---
 nburnet1/nburnet1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
